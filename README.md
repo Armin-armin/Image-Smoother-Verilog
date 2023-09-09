@@ -5,5 +5,5 @@ Example image is also included. Further explanations are available in Report.pdf
 
 Contributers:
 
-Armin Asgharifard
+Armin Asgharifard,
 Emrecan Yiğit
